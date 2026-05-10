@@ -45,9 +45,9 @@
 
 | 🗂️ Project | 📝 Description | 🔧 Stack | 🔗 |
 |-----------|---------------|----------|-----|
-| **[Cray Monitor](https://github.com/IVANBERNAL12/cray)** | Crayfish health monitoring system | JavaScript | [View →](https://github.com/IVANBERNAL12/cray) |
-| **Coming Soon** | Full-stack web app | React · Node.js | 🚧 |
-| **Coming Soon** | Portfolio website | HTML · CSS · JS | 🚧 |
+| **[Cray Monitor](https://github.com/IVANBERNAL12/cray)** | Crayfish health monitoring system | JavaScript | [View →](aquavisionpro.online) |
+| **[TaskFlow](https://github.com/IVANBERNAL12/taskflow)** | Full-stack task manager with login, dark/light mode — React + Node.js + MongoDB | react-nodejs-mongodb-fullstack-javascript | [View →]
+| **[My Portfolio](https://github.com/IVANBERNAL12/Portfolio)** | Portfolio website | HTML · CSS · JS | [View →](https://ivanbernal12.github.io/Portfolio/) |
 
 > 💡 More projects are on the way — check back soon!
 
